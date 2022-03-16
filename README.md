@@ -12,5 +12,3 @@
 
 Connect with me:
 [Twitter- @ChulbulMaithili](https://twitter.com/ChulbulMaithili),[ Linkedin - @MaithiliChulbul](https://www.linkedin.com/in/maithili-chulbul-9b0006213/ ), [Leetcode - @MaithiliChulbul](https://leetcode.com/MaithiliChulbul/)
-
-
