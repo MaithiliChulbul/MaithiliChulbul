@@ -1,6 +1,6 @@
 ### Hola, I'm Maithili Chulbul 👋
-
-<!-- A fortitude Comply
+                    
+                     A Fortitude Comply
 
 - 🔭 I’m currently working on Data Structure and Algorithm
 - 🌱 I’m currently learning MATLAB
